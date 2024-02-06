@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Saurabh Burnwal</string>
+    <string name="title">Student</string>
+    <string name="phone_number">+919933669860</string>
+    <string name="social_media_handle">kryptonraiderx</string>
+    <string name="email_id">saurabhburnwal00@gmail.com</string>
+</resources>
